@@ -27,4 +27,4 @@ Two simple condition :
 * Rewrite Page URL and title with Ajax Loading
 * Ajax New Thread And New Reply Submit.
   
-   ## More details : [Ajax Mybb Plugin](https://community.mybb.com/thread-242787.html)
+## More details : [Ajax Mybb Plugin](https://community.mybb.com/thread-242787.html)
